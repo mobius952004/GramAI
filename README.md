@@ -24,41 +24,26 @@ The system enables citizens to interact naturally in their local language, makin
 India has thousands of central and state government schemes for:
 
 Farmers
-
 Senior citizens
-
 Women
-
 Workers
-
 Low-income households
 
 Yet, a large number of eligible citizens never benefit because of:
-
 Language barriers
-
 Complex eligibility rules
-
 Lack of awareness
-
 Dependence on intermediaries
-
 Limited access to digital platforms
-
 As a result, welfare delivery remains fragmented and inaccessible for the very people it is meant to support.
 
 💡 Solution: GramAI
 
 GramAI bridges this gap using voice-based AI.
-
 Instead of navigating websites, apps, or IVR menus, a user simply:
-
 Calls a helpline number from any basic phone
-
 Speaks naturally in their preferred language
-
 Answers a few simple questions
-
 Receives clear, personalized guidance on relevant schemes
 
 No reading.
@@ -67,39 +52,25 @@ No smartphone required.
 
 🧠 How GramAI Works
 1️⃣ Voice-First Interaction
-
 Users interact entirely through spoken conversation
-
 No rigid IVR menus
-
 Natural, conversational flow
 
 2️⃣ Language & Context Awareness
-
 Automatically detects the caller’s language
-
 Adapts responses to local linguistic preferences
-
 Maintains conversation context across the call
 
 3️⃣ Eligibility-Driven Guidance
-
 Asks only the minimum required questions
-
 Evaluates eligibility using structured rules
-
 Avoids misinformation or guesswork
 
 4️⃣ Clear & Actionable Responses
-
 Explains:
-
 Scheme benefits
-
 Required documents
-
 Where and how to apply
-
 Uses simple, non-technical language
 
 🏗️ System Architecture (High Level)
@@ -109,49 +80,34 @@ GramAI is designed as a modular system, allowing independent evolution of each l
 Voice Layer
 
 Call handling
-
 Speech-to-Text
-
 Text-to-Speech
-
 AI Intelligence Layer
 
 Intent detection
 
 Entity extraction
-
 Conversation planning
-
 Rule-based eligibility evaluation
 
 Data Layer
 
 Government scheme database
-
 State and category-specific rules
 
 Analytics & Admin Layer
-
 Aggregated call insights
-
 Scheme awareness trends
-
 Regional engagement patterns
-
 📊 Admin & Analytics Dashboard
 
 Alongside citizen interactions, GramAI provides a web-based administrative dashboard for government bodies and program administrators.
 
 Dashboard Capabilities:
-
 📈 Call volume trends
-
 🧾 Most discussed schemes
-
 🗺️ Region-wise awareness gaps
-
 🧠 AI decision insights
-
 ⏱️ Conversation effectiveness metrics
 
 All data is:
