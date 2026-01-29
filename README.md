@@ -11,3 +11,8 @@ Based on this information, GramAI evaluates which government schemes may apply t
 Alongside citizen interactions, GramAI also provides an administrative dashboard. This dashboard shows aggregated and anonymized insights from calls, such as which schemes are most frequently discussed, which regions show lower awareness, and how users are engaging with the system. These insights can help authorities improve outreach efforts and identify gaps in scheme awareness at the ground level.
 
 GramAI is built as a modular system so that language processing, eligibility evaluation, and conversation flow can evolve independently. The project focuses on accessibility, inclusivity, and clarity, with the goal of making public welfare information reachable to everyone, regardless of language, literacy level, or access to technology.
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
