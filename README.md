@@ -12,7 +12,7 @@ Alongside citizen interactions, GramAI also provides an administrative dashboard
 
 GramAI is built as a modular system so that language processing, eligibility evaluation, and conversation flow can evolve independently. The project focuses on accessibility, inclusivity, and clarity, with the goal of making public welfare information reachable to everyone, regardless of language, literacy level, or access to technology. -->
 
-📞 GramAI
+#📞GramAI
 Voice-First AI Helpline for Government Schemes & Financial Inclusion
 
 GramAI is a voice-first AI phone helpline designed to help rural and underserved citizens discover, understand, and access government welfare and financial schemes through a simple phone call — without requiring smartphones, apps, or internet literacy.
@@ -38,7 +38,6 @@ Limited access to digital platforms
 As a result, welfare delivery remains fragmented and inaccessible for the very people it is meant to support.
 
 💡 Solution: GramAI
-
 GramAI bridges this gap using voice-based AI.
 Instead of navigating websites, apps, or IVR menus, a user simply:
 Calls a helpline number from any basic phone
@@ -119,6 +118,9 @@ Anonymized
 Privacy-preserving
 
 This allows authorities to make data-driven policy and outreach decisions without compromising user privacy.
+
+Snapshots of our admin dashboard 
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
